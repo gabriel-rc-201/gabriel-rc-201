@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 🐱Github stats:
 
 ![gabriel-rc-201's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-rc-201&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rc-201&layout=compact&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rc-201&layout=compact&bg_color=151515&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
