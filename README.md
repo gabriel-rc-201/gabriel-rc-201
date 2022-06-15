@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-rc-201&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-rc-201" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS** and **React** with **Meteor**
 
-- 💬 Ask me about **NodeJS**
+- 💬 Ask me about **NodeJS**, **React** and **Meteor**
 
 - 📫 How to reach me **ganriel201@gmailcom**
 
-- 🤔 se daily `.js`,`.ts`
+- 🤔 se daily `.js`,`.ts`, `jsx`, `tsx`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
